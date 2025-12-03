@@ -63,8 +63,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <br/>          
 <br/>
-![Snake animation]
-(https://github.com/jfukui1/jfukui1/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?jfukui1_jfukui1&repo=your_username&theme=react)]
-(https://github.com/jfukui1/jfukui1)
