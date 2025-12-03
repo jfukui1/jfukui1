@@ -14,8 +14,8 @@ Busco evoluir continuamente, unindo minha experiência prática na indústria co
 
 <img 
 align="left"
-alt="css"
-title="css"
+alt="Apex"
+title="Apex"
 width="50px"
 style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
