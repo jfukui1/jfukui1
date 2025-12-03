@@ -30,8 +30,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img
 align="left"
-alt="NodeJS"
-title="NodeJs"
+alt="Java"
+title="Java"
 width="50px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
