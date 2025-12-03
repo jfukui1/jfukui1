@@ -19,44 +19,35 @@ title="css"
 width="50px"
 style="padding-right:10px;"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apex/apex-original.svg" />
-
- <img 
-align="left"
-alt="css"
-title="css"
-width="50px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
-
 <img 
 align="left"
-alt="css"
-title="css"
+alt="NodeJS"
+title="NodeJs"
 width="50px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
 <img 
 align="left"
-alt="css"
-title="css"
+alt="Git"
+title="Git"
 width="40px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img 
 align="left"
-alt="css"
-title="css"
+alt="Salesforce"
+title="SalesForce"
 width="50px"
 style="padding-right:10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" />
 
 <img 
 align="left"
-alt="css"
-title="css"
+alt="Python"
+title="Python"
 width="50px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -64,8 +55,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 <img 
 align="left"
-alt="css"
-title="css"
+alt="JavaScript"
+title="JavaScript"
 width="50px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
