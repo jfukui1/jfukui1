@@ -63,9 +63,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javasc
 
 <br/>          
 <br/>
+![Snake animation]
+(https://github.com/your_username/blob/output/github-contribution-grid-snake.svg)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jfukui1/jfukui1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jfukui1/jfukui1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jfukui1/jfukui1/output/pacman-contribution-graph.svg">
-</picture>
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=your_username&theme=react)]
+(https://github.com/your_username/your_username)
