@@ -30,15 +30,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img
 align="left"
-alt="NodeJS"
-title="NodeJs"
-width="50px"
-style="padding-right:10px;"
-src="https://github.com/user-attachments/assets/606171bc-604f-4da7-a5ed-1b58815b0453" />
-
-
-<img
-align="left"
 alt="Java"
 title="Java"
 width="50px"
@@ -87,6 +78,14 @@ title="JavaScript"
 width="50px"
 style="padding-right:10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img
+align="left"
+alt="SAP"
+title="SAP"
+width="50px"
+style="padding-right:10px;"
+src="https://github.com/user-attachments/assets/606171bc-604f-4da7-a5ed-1b58815b0453" />
 
 <br/>          
 <br/>
